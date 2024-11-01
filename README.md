@@ -92,3 +92,6 @@
         <p>Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar
                 este lugar</p>
 </div>
+img/cenario-passo11-cidade-perdida.png
+img/cenario-passo4-voltar-casa.png
+img/cenario-passo0.png
